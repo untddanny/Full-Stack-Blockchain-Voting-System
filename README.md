@@ -1,8 +1,6 @@
 
 Decentralised Voting application using Ethereum Network
-### Abstract
-Building a secure electronic voting system that offers the fairness and privacy of current voting schemes, while providing the transparency and flexibility offered by electronic systems has been a challenge for a long time. In this work-in-progress project, we evaluate an application of blockchain as a service to implement distributed electronic voting systems. The paper proposes a novel electronic voting system based on blockchain that addresses some of the limitations in existing systems and evaluates some of the popular blockchain frameworks for the purpose of constructing a blockchain-based e-voting system. In particular, we evaluate the potential of distributed ledger technologies through the description of a case study; namely, the process of an election, and the implementation of a blockchain-based application, which improves the security and decreases the cost of hosting a nationwide election.
-<img width="1440" src="https://assets.devfolio.co/hackathons/4851e74537ac440d864f5a760f6b8167/projects/ee13125ddb81465098ea0bd1506045e8/picun1tfhzbc.png">
+
 ### Dir Structure 
 
 ```bash
@@ -73,7 +71,7 @@ Follow the steps below to download, install, and run this project.
 
 ### Step 2. Install dependencies
 ```
-$ cd DSCWOW-DVN
+
 $ npm install
 ```
 ### Step 3. Start Ganache
